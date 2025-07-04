@@ -363,7 +363,6 @@ export default function Home() {
             <Image src="/logos/lanchi logo 1.png" alt="Lanchi" width={120} height={80} className="h-16 md:h-20 max-w-[120px] object-contain" />
             <Image src="/logos/logo-yhre-m7VpRlVayoU7o52q.png" alt="YHRE" width={120} height={80} className="h-16 md:h-20 max-w-[120px] object-contain" />
             <Image src="/logos/Tena sabi logo.png" alt="Tena Sabi" width={120} height={80} className="h-16 md:h-20 max-w-[120px] object-contain" />
-           
           </div>
         </div>
       </section>
