@@ -153,7 +153,7 @@ export default function GalleryPage() {
           <span>WE LIVE IN THE DETAILS ( C )</span>
         </div>
         <div>
-          <h1 className="text-6xl md:text-8xl font-serif font-light text-black leading-none mb-2">Our Work</h1>
+          <h1 className="text-6xl md:text-8xl font-serif font-light text-black leading-none mb-2">My Work</h1>
           <div className="h-0.5 w-full bg-black/60 mb-2" />
         </div>
         <div className="flex flex-col items-end gap-4 mt-8 md:mt-0">
